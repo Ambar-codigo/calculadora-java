@@ -12,3 +12,12 @@ javapublic class Adicao {
         System.out.println("O resultado da soma é: " + resultado);
     }
 }
+
+public static void realizarDivisao(double a, double b) {
+        if (b == 0) {
+            System.out.println("\n[Erro] Divisão por zero não é permitida!");
+        } else {
+            double resultado = a / b;
+            System.out.println("\n[Divisão] Resultado: " + a + " / " + b + " = " + resultado);
+        }
+    }
