@@ -13,8 +13,14 @@ javapublic class Adicao {
     }
 }
 
+<<<<<<< Updated upstream
 
 public static void Subtracao(double a, double b) {
         double resultado = a - b;
         System.out.println("\n[Subtração] Resultado: " + a + " - " + b + " = " + resultado);
+=======
+public static void realizarSubtracao(double a, double b) {
+        double resultado = a - b;
+        System.out.println("\n[Subtraçao] Resultado: " + a + " - " + b + " = " + resultado);
+>>>>>>> Stashed changes
     }
