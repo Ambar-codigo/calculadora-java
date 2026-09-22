@@ -13,6 +13,7 @@ javapublic class Adicao {
     }
 }
 
+
 public static void Subtracao(double a, double b) {
         double resultado = a - b;
         System.out.println("\n[Subtração] Resultado: " + a + " - " + b + " = " + resultado);
