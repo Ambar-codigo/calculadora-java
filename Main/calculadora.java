@@ -14,11 +14,6 @@ javapublic class Adicao {
 }
 
 
-
-
-
-
-
 public static void Multiplicacao(double a, double b) {
         double resultado = a * b;
         System.out.println("\n[Multiplicação] Resultado é: " + a + " * " + b + " = " + resultado);
