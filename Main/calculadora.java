@@ -12,3 +12,8 @@ javapublic class Adicao {
         System.out.println("O resultado da soma é: " + resultado);
     }
 }
+
+public static void Subtracao(double a, double b) {
+        double resultado = a - b;
+        System.out.println("\n[Subtração] Resultado: " + a + " - " + b + " = " + resultado);
+    }
