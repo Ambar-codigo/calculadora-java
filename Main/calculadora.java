@@ -21,3 +21,4 @@ public static void realizarDivisao(double a, double b) {
             System.out.println("\n[Divisão] Resultado: " + a + " / " + b + " = " + resultado);
         }
     }
+ main
